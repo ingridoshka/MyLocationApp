@@ -88,7 +88,7 @@
                                 </connections>
                             </button>
                         </subviews>
-                        <color key="backgroundColor" red="1" green="0.56192839049457888" blue="0.64314887210385085" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                        <color key="backgroundColor" red="1" green="0.50166989043701693" blue="0.60978583825267041" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                         <constraints>
                             <constraint firstItem="OKe-PS-P17" firstAttribute="centerY" secondItem="XfP-yf-Mha" secondAttribute="centerY" id="Umz-rS-biY"/>
                             <constraint firstItem="OKe-PS-P17" firstAttribute="centerX" secondItem="XfP-yf-Mha" secondAttribute="centerX" id="iMl-1v-P19"/>
